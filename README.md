@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LYNNEMUNINI65
-- 👀 I’m interested in full stack web development. 
-- 🌱 I’m currently learning server side development with NodeJS, Express and MongoDB.
-- 💞️ I’m looking to collaborate on projects that could help horn my skills in nodejs.
+- 👀 I’m interested in Data science. 
+- 🌱 I’m currently learning data analysis with Pandas.
 - 📫 You can reach me via LINKEDIN(Lynne Munini) or TWITTER(@LynneMunini)
 
 <!---
