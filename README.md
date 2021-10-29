@@ -1,4 +1,4 @@
-Data science and Machine learning enthusiast
+Data science and Machine learning enthusiast.
 Python developer.
 Software Enginnering student
 <!---
