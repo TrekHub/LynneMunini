@@ -7,11 +7,9 @@
 </p>
 <hr/>
 
-![Lynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast)
+![Lynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=discord_old_blurple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact)](https://github.com/lynnemunini/github-readme-stats)
-
-[![Lynne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LynneMunini)](https://github.com/lynnemunini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=discord_old_blurple&layout=compact)](https://github.com/lynnemunini/github-readme-stats)
 
 
 
