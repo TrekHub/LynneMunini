@@ -23,6 +23,11 @@
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
 </a>
 
+<p align="center">
+<a href="https://twitter.com/LynneMunini" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/lynne-munini-431571195/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIN" height="40" width="40" /></a>
+</p>
+
 
 
 
