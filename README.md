@@ -6,5 +6,5 @@
   <img src="https://img.shields.io/badge/Loves-Dogs-yellowgreen" />
 </p>
 
-![Lynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs)
+![Lynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast)
 
