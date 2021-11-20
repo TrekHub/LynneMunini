@@ -9,6 +9,6 @@
 
 ![Lynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast)](https://github.com/lynnemunini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact)](https://github.com/lynnemunini/github-readme-stats)
 
 
