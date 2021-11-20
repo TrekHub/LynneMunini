@@ -21,16 +21,16 @@
 <a href="https://www.linkedin.com/in/lynne-munini-431571195/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIN" height="40" width="40" /></a>
 </p>
 
-<a href="https://github.com/lynnemunini/github-readme-stats">
+<a href="https://github.com/lynnemunini/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
 </a>
-<a href="https://github.com/lynnemunini/github-readme-stats">
+<a href="https://github.com/lynnemunini/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast&layout=compact" />
 </a>
-<a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats"  align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&theme=highcontrast" />
 </a>
-<a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats"  align="center">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
 </a>
 
