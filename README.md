@@ -9,7 +9,6 @@
 </p>
 <hr/>
 
-<br><br>
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
 </a>
@@ -19,6 +18,7 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnemunini&theme=highcontrast" />
 </a>
+<br><br>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=cw44vx1muv0czb8zgjp36dccb" />
 </a>
