@@ -5,9 +5,17 @@
   <img src="https://img.shields.io/badge/Lives-Nairobi-yellowgreen" />
   <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-yellowgreen" />
   <img src="https://img.shields.io/badge/Loves-Dogs-yellowgreen" />
-  
+
 </p>
-<hr/>
+
+<h3 align="center">
+  Welcome to Lynne's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/lynnemunini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Python%20Developer;Data%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+</p>
 
 <a href="https://github.com/lynnemunini/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast" />
