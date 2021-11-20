@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-yellowgreen" />
   <img src="https://img.shields.io/badge/Loves-Dogs-yellowgreen" />
 </p>
+<hr/>
 
 ![Lynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnemunini&show_icons=true&hide=contribs,prs&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnemunini&theme=highcontrast)](https://github.com/lynnemunini/github-readme-stats)
+
 
