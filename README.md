@@ -1,4 +1,7 @@
-![banner](https://user-images.githubusercontent.com/63019595/142741440-0df526b7-3022-4507-8711-be4e49ac8c61.png)
+
+![Banner](https://user-images.githubusercontent.com/63019595/142769636-cf6d83bc-14a3-42c0-b21f-a835baaca64c.png)
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-20-yellowgreen" />
